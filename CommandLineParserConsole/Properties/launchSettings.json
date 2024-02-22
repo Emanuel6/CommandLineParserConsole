@@ -1,0 +1,16 @@
+{
+  "profiles": {
+    "Verbose": {
+      "commandName": "Project",
+      "commandLineArgs": "-v -n Emanuel -b 1992-06-27"
+    },
+    "No Verbose": {
+      "commandName": "Project",
+      "commandLineArgs": "-n Emanuel -b 1992-06-27"
+    },
+    "No Args": {
+      "commandName": "Project",
+      "commandLineArgs": ""
+    }
+  }
+}
